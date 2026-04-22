@@ -188,3 +188,5 @@ if uploaded_file:
 
     if not found:
         st.success("✅ No Violations Detected")
+
+        # redeploy trigger
